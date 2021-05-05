@@ -1,0 +1,11 @@
+call plug#begin()
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'ap/vim-css-color'
+Plug 'junegunn/fzf.vim'
+Plug 'itchyny/lightline.vim'
+Plug 'terryma/vim-multiple-cursors'
+Plug 'tpope/vim-surround'
+Plug 'preservim/nerdtree'
+Plug 'mattn/emmet-vim'
+call plug#end()
